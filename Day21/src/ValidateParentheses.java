@@ -26,4 +26,5 @@ public class ValidateParentheses {
         String s ="{}()]";
         System.out.println(isValidate(s));
     }
+
 }
