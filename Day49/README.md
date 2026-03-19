@@ -76,12 +76,7 @@ Valid submatrices = 3
 
 ---
 
-## ✅ Java Solution
-
-```java
-class Solution {
-    
-⏱ Complexity
+## Complexity
 
 Time: O(m × n)
 
